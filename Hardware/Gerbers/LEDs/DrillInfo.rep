@@ -1,0 +1,25 @@
+ULTIBOARD DRILL REPORT
+
+Design: LEDs(LEDs)
+
+DRILL FILE SETTINGS
+Excellon 2, Absolute, Inch, 2.5 
+
+
+DEFINITION COPPER LAYERS
+Copper Top
+Copper Bottom
+
+
+--------------------------------------------------------------------
+
+DRILLFILE                                   LAMINATION
+LEDs(LEDs) - Copper Top-Copper Bottom.drl   Copper Top .. Copper Bottom
+
+TOOL     SIZE   TYPE  COUNT
+   1  0.02362    PTH     40
+   2  0.03937    PTH     60
+   3  0.06299    PTH      8
+   4  0.03543    PTH     12
+   5  0.03500    PTH     14
+   6  0.03917    PTH      2
